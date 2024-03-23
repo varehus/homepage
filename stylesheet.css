@@ -1,0 +1,24 @@
+.sprite {
+  background: url(sprite.png) no-repeat;
+}
+
+.google {
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background-position: 0px 0px;
+}
+
+.python {
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background-position: -32px 0px;
+}
+
+.qt {
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background-position: -64px 0px;
+}
